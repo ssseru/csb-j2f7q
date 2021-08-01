@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ssseru.github.io/csb-j2f7q/static/css/main.106baaae.chunk.css",
+    "main.js": "https://ssseru.github.io/csb-j2f7q/static/js/main.88c33948.chunk.js",
+    "main.js.map": "https://ssseru.github.io/csb-j2f7q/static/js/main.88c33948.chunk.js.map",
+    "runtime-main.js": "https://ssseru.github.io/csb-j2f7q/static/js/runtime-main.0af8327b.js",
+    "runtime-main.js.map": "https://ssseru.github.io/csb-j2f7q/static/js/runtime-main.0af8327b.js.map",
+    "static/js/2.e0129be3.chunk.js": "https://ssseru.github.io/csb-j2f7q/static/js/2.e0129be3.chunk.js",
+    "static/js/2.e0129be3.chunk.js.map": "https://ssseru.github.io/csb-j2f7q/static/js/2.e0129be3.chunk.js.map",
+    "index.html": "https://ssseru.github.io/csb-j2f7q/index.html",
+    "static/css/main.106baaae.chunk.css.map": "https://ssseru.github.io/csb-j2f7q/static/css/main.106baaae.chunk.css.map",
+    "static/js/2.e0129be3.chunk.js.LICENSE.txt": "https://ssseru.github.io/csb-j2f7q/static/js/2.e0129be3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0af8327b.js",
+    "static/js/2.e0129be3.chunk.js",
+    "static/css/main.106baaae.chunk.css",
+    "static/js/main.88c33948.chunk.js"
+  ]
+}
